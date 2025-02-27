@@ -7,8 +7,8 @@ const Home = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-primary-dark to-primary rounded-lg text-white p-8 mb-12">
         <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl font-bold mb-4">Sustainable Fertilizer Usage Optimizer</h1>
-          <p className="text-xl mb-8">A data-driven approach to enhance crop yield while maintaining soil health</p>
+          <h1 className="text-4xl font-bold mb-4 text-black">Sustainable Fertilizer Usage Optimizer</h1>
+          <p className="text-xl mb-8 text-black">A data-driven approach to enhance crop yield while maintaining soil health</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link to="/register" className="px-6 py-3 bg-white text-primary font-medium rounded-md hover:bg-gray-100 transition-colors">
               Get Started

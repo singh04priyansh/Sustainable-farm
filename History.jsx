@@ -57,7 +57,7 @@ const History = () => {
         <h2 className="text-2xl font-bold text-green-700">Soil Test History</h2>
         <Link 
           to="/dashboard" 
-          className="bg-green-600 text-white py-2 px-4 rounded-md hover:bg-green-700 transition duration-300"
+          className=" text-white py-2 px-4 rounded-md hover:bg-green-700 transition duration-300"
         >
           New Soil Test
         </Link>
